@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/billy-gardell-weight-loss/sitemap.xml
+Sitemap: https://billy-gardell-weight-loss.vercel.app/sitemap-vercel.xml
+Sitemap: https://billy-gardell-weight-loss.pages.dev/sitemap-cloudflare.xml
